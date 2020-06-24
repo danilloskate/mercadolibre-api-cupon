@@ -12,6 +12,8 @@ posible.
 
 Se creo una version de el api solicitado en spring boot teniendo en cuenta los objetivos planteados por el enunciado
 se publico el api en google app engine en el siguiente link https://mercadolibre-api-cupon.uc.r.appspot.com
+en la carpeta del proyecto src/main/pruebas funcionamiento/
+hay un archivo de word con pantallasos de la solucion funcionando en localhost
 
 Como probar la Cupon
 
