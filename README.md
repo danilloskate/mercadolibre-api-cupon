@@ -20,8 +20,8 @@ Como probar la Cupon
 Para poder probar la aplicación, la API tiene definida el verbo POST que se mapea con el mapping /cupon, por lo tanto para ejecutarla
 se prueba mediante una aplicación que permita realizar llamadas a web services como puede ser SoapUI y/o Postman.
 
-http://mercadolibre-api-cupon.uc.r.appspot.com/coupon (no segura)
-POST -> https://apicoupon.rj.r.appspot.com/coupon
+POST -> http://mercadolibre-api-cupon.uc.r.appspot.com/cupon (no segura)
+POST -> https://mercadolibre-api-cupon.uc.r.appspot.com/cupon
 
 Body (JSON)
 {
